@@ -103,4 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-songs/
+# Annoying mac file
+.DS_Store
+
+# raw_data folder
+scrape/
+
